@@ -2,10 +2,10 @@
   <div id="app" class="app-style">
     <div id="header" class="header">
       <ul class="header__list impact">
-        <li class="header__list__item"><router-link to="/">Home</router-link></li>
-        <li class="header__list__item"><router-link to="/Profile">Profile</router-link></li>
-        <li class="header__list__item"><router-link to="/Skill">Skill</router-link></li>
-        <li class="header__list__item"><router-link to="/Work">Work</router-link></li>
+        <li class="header__list__item"><router-link to="./">Home</router-link></li>
+        <li class="header__list__item"><router-link to="./Profile">Profile</router-link></li>
+        <li class="header__list__item"><router-link to="./Skill">Skill</router-link></li>
+        <li class="header__list__item"><router-link to="./Work">Work</router-link></li>
       </ul>
     </div>
     <main class="main">
@@ -56,7 +56,7 @@ body.open {
 }
 .main {
   min-height: calc(100vh - 100px);
-  background: url(assets/bg.png) no-repeat center center/cover;
+  background: url(./assets/bg.png) no-repeat center center/cover;
   /* background-attachment: fixed; */
   padding-top: 30px;
 }
