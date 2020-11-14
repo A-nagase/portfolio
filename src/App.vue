@@ -26,7 +26,7 @@ export default {
   name: 'App',
   mounted () {
     const title = 'Nagase Portfolio'
-    const description = '永瀬のポートフォリオサイトです'
+    const description = '永瀬のポートフォリオサイトです。'
     document.title = title
     document.querySelector("meta[property='og:title']").setAttribute('content', title)
     document.querySelector("meta[name='description']").setAttribute('content', description)
