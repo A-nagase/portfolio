@@ -14,7 +14,7 @@
       <p>ライブラリ・フレームワーク</p>
       <span>Vue.js</span>
       <span>jQuery</span>
-      <span>bootstrap</span>
+      <span>GSAP</span>
     </div>
     <div class="skill-box tools">
       <p>ツール</p>
