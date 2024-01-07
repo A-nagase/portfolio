@@ -30,7 +30,7 @@ export default {
           range: 'デザイン、コーディング',
           lang: 'HTML, CSS, Vue.js, vue-cli',
           time: '約20時間',
-          img_src: require('../assets/portfolio.png')
+          img_src: require('../assets/portfolio_.png')
         },
         {
           id: 2,
@@ -39,7 +39,7 @@ export default {
           range: 'コーディング（レスポンシブ対応）',
           lang: 'HTML, CSS, Vue.js, vue-cli',
           time: '約16時間',
-          img_src: require('../assets/fukubukuro.png')
+          img_src: require('../assets/fukubukuro_.png')
         },
         {
           id: 3,
@@ -48,7 +48,7 @@ export default {
           range: 'コーディング（レスポンシブ対応）',
           lang: 'HTML, CSS(Sass), jQuery',
           time: '約160時間',
-          img_src: require('../assets/copro.png')
+          img_src: require('../assets/copro_.png')
         },
         {
           id: 4,
@@ -57,7 +57,7 @@ export default {
           range: 'コーディング（レスポンシブ対応）',
           lang: 'HTML, CSS, Vue.js',
           time: '約16時間',
-          img_src: require('../assets/mozo.png')
+          img_src: require('../assets/mozo_.png')
         },
         {
           id: 5,
@@ -66,7 +66,7 @@ export default {
           range: 'コーディング（レスポンシブ対応）',
           lang: 'HTML(ejs), CSS(Sass), jQuery',
           time: '約20時間',
-          img_src: require('../assets/leaffresh.png')
+          img_src: require('../assets/leaffresh_.png')
         },
         {
           id: 6,
@@ -75,7 +75,7 @@ export default {
           range: 'コーディング（レスポンシブ対応）',
           lang: 'HTML, CSS, GSAP',
           time: '約8時間',
-          img_src: require('../assets/markis.png')
+          img_src: require('../assets/markis_.png')
         },
         {
           id: 7,
@@ -84,7 +84,7 @@ export default {
           range: 'コーディング（レスポンシブ対応）',
           lang: 'HTML(Pug), CSS(Sass), glup, jQuery',
           time: '約80時間',
-          img_src: require('../assets/cet.png')
+          img_src: require('../assets/cet_.png')
         },
         {
           id: 8,
@@ -93,7 +93,7 @@ export default {
           range: 'コーディング（レスポンシブ対応）',
           lang: 'HTML, CSS, jQuery',
           time: '約160時間',
-          img_src: require('../assets/tommy.png')
+          img_src: require('../assets/tommy_.png')
         }
       ]
     }
